@@ -1,0 +1,14 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+h1 {}
+
+.text-green {
+    color: #28A745;
+    font-weight: 500;
+}
